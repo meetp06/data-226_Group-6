@@ -35,13 +35,14 @@ Eventsim is used to generate synthetic event data, replicating user activities o
 
 ## Architecture  
 
-![DataWarehouse_Project Architecture](path-to-your-architecture-diagram)  
+<img width="983" alt="Screenshot 2024-12-11 at 3 16 42 PM" src="https://github.com/user-attachments/assets/17490377-4f30-473d-8aa0-2a91b6e716f1" />
 
 ---
 
 ## Final Result  
 
-![Dashboard](path-to-your-dashboard-screenshot)  
+![Dashboard](https://github.com/user-attachments/assets/d9337d46-7e2a-4b16-a8bd-f9551027edde)
+
 
 ---
 
@@ -109,11 +110,6 @@ This project can be enhanced in the following ways:
 **DataWarehouse_Project** is a data engineering project featuring tools like Kafka, Spark Streaming, dbt, Docker, Airflow, Terraform, GCP, and more. It demonstrates a complete pipeline for real-time and batch processing of streaming data.
 
 ---
-
-## Resources  
-
-- [Eventsim Repository](https://github.com/viirya/eventsim)  
-- [Debug Guide](#debug) 
 
 ## Topics  
 
