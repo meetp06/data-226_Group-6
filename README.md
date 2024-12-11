@@ -104,14 +104,6 @@ This project can be enhanced in the following ways:
 6. **Enhanced Visualizations**  
    - Create more dashboards to uncover additional insights.  
 
----
-
-## Special Mentions  
-
-This project was inspired by the free [DataTalks.Club Data Engineering Course](https://datatalks.club/). If you want to learn cutting-edge data engineering skills, check out this course.  
-
----
-
 ## About  
 
 **DataWarehouse_Project** is a data engineering project featuring tools like Kafka, Spark Streaming, dbt, Docker, Airflow, Terraform, GCP, and more. It demonstrates a complete pipeline for real-time and batch processing of streaming data.
@@ -121,16 +113,9 @@ This project was inspired by the free [DataTalks.Club Data Engineering Course](h
 ## Resources  
 
 - [Eventsim Repository](https://github.com/viirya/eventsim)  
-- [Debug Guide](#debug)  
-- [Setup Video Walkthrough](YouTube-link-placeholder)  
+- [Debug Guide](#debug) 
 
 ## Topics  
 
 `python` `airflow` `kafka` `spark` `gcp` `data-engineering` `dbt`
-
----
-
-## License  
-
-This project is open source and available under the MIT License.  
 
